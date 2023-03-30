@@ -1,17 +1,17 @@
 {
-    "name": "z3d0x/filament-logger",
+    "name": "mstfkhazaal/filament-logger",
     "description": "Activity logger for filament",
     "keywords": [
-        "Z3d0X",
+        "Mstfkhazaal",
         "laravel",
         "filament-logger"
     ],
-    "homepage": "https://github.com/z3d0x/filament-logger",
+    "homepage": "https://github.com/mstfkhazaal/filament-logger",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ziyaan Hassan",
-            "email": "ziyaan2010@gmail.com",
+            "name": "Moustafa Khazaal",
+            "email": "mstfkhazaal@gmail.com",
             "role": "Developer"
         }
     ],
